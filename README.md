@@ -76,4 +76,5 @@ This project is a real-world machine learning application that predicts whether 
 - **SHAP Waterfall Plot** for explanation:
 
 ### Sample Screenshot
-[output.png]
+![Dashboard Screenshot](output.png)
+
